@@ -1,1 +1,1 @@
-# Klasifikasi-Batu-Kertas-Gunting
+# Klasifikasi Batu Kertas Gunting
