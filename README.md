@@ -13,3 +13,7 @@
 - [x] Akurasi dari model minimal 85%.
 - [x] Dapat memprediksi gambar yang diunggah ke Colab.
 - [x] Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
+
+## Author
+
+> Muhammad Akbar Hamid
